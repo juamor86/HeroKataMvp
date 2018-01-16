@@ -1,4 +1,4 @@
-package eeurope.herokatamvp.splash;
+package eeurope.herokatamvp.ui.ui.splash;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
